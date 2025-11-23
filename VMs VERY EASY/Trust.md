@@ -16,3 +16,6 @@ Seguidamente realizamos un escaneo con NMAP para saber sus versiones:
 ```
 nmap -sV -p 22,80 -vvv 172.18.0.2
 ```
+
+<img width="1051" height="667" alt="Pasted image 20250602190517" src="https://github.com/user-attachments/assets/37ff93f6-7f8d-484e-821a-2027b902be48" />
+
