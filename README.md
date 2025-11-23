@@ -1,1 +1,1 @@
-# Hacking-Labs
+Este repositorio contiene las máquinas virtuales hechas de la plataforma Dockerlabs.es, los cuales utilizo para practicar ciberseguridad, hacking ético, análisis de vulnerabilidades y fortalecimiento de habilidades técnicas.
