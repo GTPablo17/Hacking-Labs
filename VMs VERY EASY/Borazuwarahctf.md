@@ -8,7 +8,9 @@ nmap -sV  --open -Pn 172.17.0.2
 
 Resultado:
 
+
 <img width="791" height="230" alt="Pasted image 20250610094819" src="https://github.com/user-attachments/assets/d3b81bd9-f77d-4739-8551-c02b1a022cd0" />
+
 
 
 Tenemos 2 puertos abiertos, procedemos a ver la pagina de Firefox:
